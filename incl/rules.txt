@@ -1,0 +1,9 @@
+		  Pirate Battleship
+
+================================
+Objective: Destroy all five ships on the enemy board before they destroy yours.
+How To: Use the radio buttons on the left to select and place each of your five ships on the board. Once your ships are placed, select the ‘Start Game’ button to start. Once the game begins, you and the enemy will take turns firing shots at each other’s boards. When it is your turn, select a square on the enemy’s board to fire a shot.
+
+Shots: Grey squares represent misses, while red squares represent hits. Solid black squares represent an area where a ship has been sunken.
+Player Ships: The status of your ships and the damage they’ve taken can tracked during active games via the panel on the left hand side of the game.
+Enemy Ships: The status of enemy ships can be tracked during active games via the panel on the right hand side of the game. Green ship names indicate live ships, while red ship names indicate sunken.
